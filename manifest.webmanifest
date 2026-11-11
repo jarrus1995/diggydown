@@ -1,6 +1,6 @@
 {
-  "name": "Hole Digger",
-  "short_name": "Hole Digger",
+  "name": "Diggy Down",
+  "short_name": "Diggy Down",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
